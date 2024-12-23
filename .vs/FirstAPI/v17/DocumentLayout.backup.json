@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\source\\repos\\firstapi\\firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:40:38.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T13:36:05.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\GlobalUsings.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
+              "RelativeToolTip": "FirstAPI\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:18:24.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T16:07:45.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "FirstAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T10:27:05.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\appsettings.json",
+              "RelativeToolTip": "FirstAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T10:15:51.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "FirstAPI\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:37:55.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Entity\\Category.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Category.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Entity\\Category.cs",
+              "RelativeToolTip": "FirstAPI\\Entity\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:36:51.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T08:33:27.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
