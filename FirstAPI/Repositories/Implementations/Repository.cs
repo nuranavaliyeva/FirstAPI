@@ -1,5 +1,6 @@
 ﻿using FirstAPI.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using System.Linq.Expressions;
 
 namespace FirstAPI.Repositories.Implementations
 {
@@ -10,11 +11,53 @@ namespace FirstAPI.Repositories.Implementations
         public Repository(AppDbContext context)
         {
             _context = context;
+            var a = new List<int>();
         }
 
-        public IQueryable<Category> GetAll()
+        public IQueryable<Category> GetAll(
+            Expression<Func<Category,
+            bool>>? expression = null,
+            int skip = 0,
+            int take = 0,
+            Expression<Func<Category, object>>? orderExpression = null,
+            bool isDescending = false,
+            bool isTracking = false,
+            params string[]? includes)
         {
-           return _context.Categories; 
+
+            IQueryable<Category> query = _context.Categories.AsNoTracking();
+
+
+            if (expression != null)
+            {
+                query = query.Where(expression);
+            }
+            if (includes != null)
+            {
+                for(int i = 0; i < includes.Length; i++)
+                {
+                    query = query.Include(includes[i]);
+                }
+            }
+            if(orderExpression != null)
+            {
+                if (isDescending)
+                {
+                    query = query.OrderByDescending(orderExpression);
+                }
+                else
+                {
+                    query = query.OrderBy(orderExpression);
+                }
+            }
+            query = query.Skip(skip);
+            if(take != 0)
+            {
+                query = query.Take(take);
+            }
+           
+           return isTracking?query:query.AsNoTracking(); 
+
         }
 
         public async Task<Category> GetByIdAsync(int id)

@@ -18,6 +18,8 @@ namespace FirstAPI.Controllers
         [HttpGet]
         public async Task<IActionResult> Get(int page=1, int take=3)
         {
+            //var categories = await _repository.GetAll(c=>c.Name.Contains("slm")).ToListAsync();
+            int skipValue = (page - 1) * take;  
             var categories = await _repository.GetAll().ToListAsync();
 
             return Ok(categories);
