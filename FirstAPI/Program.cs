@@ -19,7 +19,8 @@ namespace FirstAPI
             {
                 opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
             });
-            builder.Services.AddScoped<IRepository, Repository>();
+            builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
+            builder.Services.AddScoped<IProductRepository, ProductRepository>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

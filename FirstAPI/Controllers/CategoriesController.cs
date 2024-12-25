@@ -9,9 +9,9 @@ namespace FirstAPI.Controllers
     public class CategoriesController : ControllerBase
     {
      
-        private readonly IRepository _repository;
+        private readonly ICategoryRepository _repository;
 
-        public CategoriesController(IRepository repository)
+        public CategoriesController(ICategoryRepository repository)
         {
             _repository = repository;
         }

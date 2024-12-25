@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +19,20 @@
       "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\migrations\\20241225063508_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\migrations\\20241225063508_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +58,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs*",
+              "RelativeToolTip": "FirstAPI\\Entity\\Base\\BaseEntity.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T13:58:26.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "20241225063508_CreateProductTable.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Migrations\\20241225063508_CreateProductTable.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Migrations\\20241225063508_CreateProductTable.cs",
@@ -70,45 +87,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Entity\\Product.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
-              "RelativeToolTip": "FirstAPI\\Entity\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Product.cs*",
+              "RelativeToolTip": "FirstAPI\\Entity\\Product.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:29:48.433Z"
+              "WhenOpened": "2024-12-25T06:29:48.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Repository.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
               "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs*",
               "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\Repository.cs*",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBcAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T13:40:38.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs*",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-23T13:36:05.698Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "FirstAPI\\GlobalUsings.cs",
@@ -120,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CreateCategoryDTO.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
               "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
@@ -128,25 +146,24 @@
               "RelativeToolTip": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:07:45.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T16:07:45.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Program.cs",
-              "RelativeToolTip": "FirstAPI\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Program.cs*",
+              "RelativeToolTip": "FirstAPI\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T10:27:05.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\appsettings.json",
               "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
@@ -158,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FirstAPI\\DAL\\AppDbContext.cs",
@@ -170,25 +187,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Category.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Entity\\Category.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Category.cs",
-              "RelativeToolTip": "FirstAPI\\Entity\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Category.cs*",
+              "RelativeToolTip": "FirstAPI\\Entity\\Category.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:36:51.823Z"
+              "WhenOpened": "2024-12-22T08:36:51.823Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABmAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs*",
+              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T08:33:27.47Z",
               "EditorCaption": ""

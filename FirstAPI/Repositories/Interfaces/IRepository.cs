@@ -2,23 +2,23 @@
 
 namespace FirstAPI.Repositories.Interfaces
 {
-    public interface IRepository
+    public interface IRepository<T> where T :BaseEntity, new()
     {
-        IQueryable<Category> GetAll(
-            Expression<Func<Category,
+        IQueryable<T> GetAll(
+            Expression<Func<T,
             bool>>? expression=null,
             int skip = 0,
             int take = 0,
-            Expression<Func<Category,object>>? orderExpression = null,
+            Expression<Func<T,object>>? orderExpression = null,
             bool isDescending = false,
             bool isTracking=false,
             params string[]? includes);
-        Task<Category> GetByIdAsync(int id);
+        Task<T> GetByIdAsync(int id);
 
-        Task AddAsync(Category category);
+        Task AddAsync(T entity);
 
-        void Delete(Category category);
-        void Update(Category category); 
+        void Delete(T entity);
+        void Update(T entity); 
         Task<int> SaveChangesAsync();
 
     }
