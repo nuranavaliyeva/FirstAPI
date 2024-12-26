@@ -3,52 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Migrations\\20241226203444_createColorCrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FirstAPI\\Migrations\\20241226203444_createColorCrud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\interfaces\\icolorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\services\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\implementations\\colorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\icolorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\entity\\color.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\createcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\colorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\migrations\\20241225063508_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\migrations\\20241225063508_createproducttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\getcolordetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\product\\getproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\updatecolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\color\\getcolordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\updatecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\getcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\dtos\\category\\getcategorydetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|c:\\users\\nuran\\desktop\\firstapi\\firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60941014-0C72-4995-8A1E-6A5FFEAB6955}|FirstAPI\\FirstAPI.csproj|solutionrelative:firstapi\\repositories\\implementations\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,95 +94,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Base\\BaseEntity.cs*",
-              "RelativeToolTip": "FirstAPI\\Entity\\Base\\BaseEntity.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:58:26.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "20241225063508_CreateProductTable.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Migrations\\20241225063508_CreateProductTable.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Migrations\\20241225063508_CreateProductTable.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Migrations\\20241225063508_CreateProductTable.cs",
-              "RelativeToolTip": "FirstAPI\\Migrations\\20241225063508_CreateProductTable.cs",
+              "DocumentIndex": 0,
+              "Title": "20241226203444_createColorCrud.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Migrations\\20241226203444_createColorCrud.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Migrations\\20241226203444_createColorCrud.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Migrations\\20241226203444_createColorCrud.cs",
+              "RelativeToolTip": "FirstAPI\\Migrations\\20241226203444_createColorCrud.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:35:09.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Product.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Product.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Product.cs*",
-              "RelativeToolTip": "FirstAPI\\Entity\\Product.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T06:29:48.433Z",
+              "WhenOpened": "2024-12-26T20:34:44.734Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs*",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\Repository.cs*",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:40:38.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs*",
-              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T13:36:05.698Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GlobalUsings.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\GlobalUsings.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\GlobalUsings.cs",
-              "RelativeToolTip": "FirstAPI\\GlobalUsings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:18:24.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CreateCategoryDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
-              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\CreateCategoryDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T16:07:45.982Z"
             },
             {
               "$type": "Document",
@@ -154,61 +115,278 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Program.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Program.cs*",
-              "RelativeToolTip": "FirstAPI\\Program.cs*",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAABWAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Program.cs",
+              "RelativeToolTip": "FirstAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T10:27:05.357Z",
+              "WhenOpened": "2024-12-26T20:30:40.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\Interfaces\\IColorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:20:40.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ColorService.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\Implementations\\ColorService.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:19:41.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IColorRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:16:36.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ColorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\ColorRepository.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\ColorRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\ColorRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:16:17.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Color.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Color.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Color.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Color.cs",
+              "RelativeToolTip": "FirstAPI\\Entity\\Color.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:14:58.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\UpdateColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:07:47.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\GetColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:07:32.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GetColorDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\GetColorDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:07:10.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateColorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Color\\CreateColorDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:06:52.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColorsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\ColorsController.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Controllers\\ColorsController.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\ColorsController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\ColorsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:04:46.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Product\\GetProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:16:54.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "FirstAPI\\appsettings.json",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\appsettings.json",
-              "RelativeToolTip": "FirstAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-22T10:15:51.285Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "FirstAPI\\DAL\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DAL\\AppDbContext.cs",
               "RelativeToolTip": "FirstAPI\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:37:55.86Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Category.cs",
-              "RelativeDocumentMoniker": "FirstAPI\\Entity\\Category.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Entity\\Category.cs*",
-              "RelativeToolTip": "FirstAPI\\Entity\\Category.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:36:51.823Z",
+              "WhenOpened": "2024-12-26T19:13:24.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 17,
+              "Title": "UpdateCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\UpdateCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T18:45:21.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Implementations\\Repository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAkwGYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:37:13.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "FirstAPI\\Repositories\\Interfaces\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:32:26.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetCategoryDetailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\GetCategoryDetailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:27:12.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "RelativeToolTip": "FirstAPI\\DTOs\\Category\\GetCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:26:59.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "FirstAPI\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T17:20:14.91Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b74565f8-c8c5-4297-8fa6-45f88bf1ce08",
+        "Display": 0,
+        "X": 532,
+        "Y": 178,
+        "Width": 1302,
+        "Height": 695,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "FirstAPI\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs*",
-              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA5AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Nuran\\Desktop\\FirstAPI\\FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "FirstAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T08:33:27.47Z",
+              "WhenOpened": "2024-12-26T17:18:50.049Z",
               "EditorCaption": ""
             }
           ]

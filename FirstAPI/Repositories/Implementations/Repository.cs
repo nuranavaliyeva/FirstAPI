@@ -35,10 +35,7 @@ namespace FirstAPI.Repositories.Implementations
             }
             if (includes != null)
             {
-                for(int i = 0; i < includes.Length; i++)
-                {
-                    query = query.Include(includes[i]);
-                }
+                query = _getIncludes(query, includes);
             }
             if(orderExpression != null)
             {
@@ -61,9 +58,15 @@ namespace FirstAPI.Repositories.Implementations
 
         }
 
-        public async Task<T> GetByIdAsync(int id)
+        public async Task<T> GetByIdAsync(int id, params string[] includes)
         {
-            return await _table.FirstOrDefaultAsync(x => x.Id == id);
+            IQueryable<T> query =_table;
+            if (includes != null)
+            {
+               query = _getIncludes(query, includes);
+            }
+
+            return await query.FirstOrDefaultAsync(x => x.Id == id);
         }
 
         public async Task AddAsync(T entity)
@@ -84,6 +87,20 @@ namespace FirstAPI.Repositories.Implementations
         public async Task<int> SaveChangesAsync()
         {
             return await _context.SaveChangesAsync();
+        }
+        private IQueryable<T> _getIncludes(IQueryable<T> query, params string[] includes)
+        {
+           
+                for (int i = 0; i < includes.Length; i++)
+                {
+                    query = query.Include(includes[i]);
+                }
+            return query;
+        }
+
+        public Task<bool> AnyAsync(Expression<Func<T, bool>> expression)
+        {
+            return _table.AnyAsync(expression);
         }
     }
 }
